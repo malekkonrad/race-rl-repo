@@ -5,6 +5,13 @@
 
 ---
 
+## Note on Repository History
+
+This repository is the new, maintained home of the RaceRL project.
+The original version of this project was developed at [malekkonrad/RaceRL](https://github.com/malekkonrad/RaceRL) — that repository is archived and will no longer be updated.
+
+---
+
 ## Overview
 
 RaceRL is a lightweight, reproducible simulation framework for studying multi-agent competitive driving with reinforcement learning. It combines a custom force-based vehicle model with checkpoint-based track progression, multi-agent spawning, and a reward function explicitly designed for competitive racing.
